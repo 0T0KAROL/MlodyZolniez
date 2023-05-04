@@ -46,14 +46,14 @@
     "versionPublish": "5.8.4",
     "imageResize": true,
     "favicon": false,
-    "mbrsiteDomain": "d4p28wfz25",
+    "mbrsiteDomain": "ndbhz0xs31",
     "usedWebp": false,
     "robotsSwitcher": false,
     "sitemapSwitcher": false,
     "sitemapSwitcherAuto": false,
     "siteUrl": false,
-    "cookiesAlert": false,
-    "gdpr": false
+    "gdpr": false,
+    "cookiesAlert": false
   },
   "pages": {
     "MłodyZołniez.html": {
